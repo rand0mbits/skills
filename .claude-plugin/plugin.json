@@ -1,0 +1,16 @@
+{
+  "name": "rand0mbits-skills",
+  "version": "0.1.0",
+  "description": "Claude Code skills by Val Schuman, starting with readable-review: plain-language, action-grouped code review reports.",
+  "author": {
+    "name": "Val Schuman",
+    "url": "https://github.com/rand0mbits"
+  },
+  "homepage": "https://github.com/rand0mbits/skills",
+  "repository": "https://github.com/rand0mbits/skills",
+  "license": "MIT",
+  "keywords": ["code-review", "skills"],
+  "skills": [
+    "./skills/readable-review"
+  ]
+}

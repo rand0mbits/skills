@@ -1,0 +1,17 @@
+{
+  "name": "rand0mbits",
+  "owner": {
+    "name": "Val Schuman",
+    "url": "https://github.com/rand0mbits"
+  },
+  "description": "Val Schuman's Claude Code skills.",
+  "plugins": [
+    {
+      "name": "rand0mbits-skills",
+      "source": "./",
+      "description": "Claude Code skills by Val Schuman, starting with readable-review: plain-language, action-grouped code review reports.",
+      "category": "engineering",
+      "keywords": ["code-review", "skills"]
+    }
+  ]
+}
